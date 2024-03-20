@@ -1,0 +1,8 @@
+/data/
+/seg_pred/
+/seg_test/
+/seg_train/
+/seg_val/
+.idea/**
+__pycache__**
+intel-image-classification.zip
